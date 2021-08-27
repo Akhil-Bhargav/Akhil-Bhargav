@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Akhil-Bhargav
 - 👀 I’m interested in python,android development.
 - 🌱 I’m currently specialising in electonics communication engineer
+- Now i'm working on a project
 
 
 <!---
